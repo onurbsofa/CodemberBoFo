@@ -1,7 +1,7 @@
 # CodemberBoFo
 <div align="center">
 
-![Codember](./images/codember.webp)
+![Codember](codember.png)
 
 # [codember](https://codember.dev)
 
